@@ -1,1 +1,1 @@
-# Personalized-Workout-and-Nutrition-Planner
+# Personalized Workout and Nutrition Planner
